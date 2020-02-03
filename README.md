@@ -1,6 +1,6 @@
 # hello-express
 
-A webpage and a server that sends it data
+A server that serves a webpage, its resources, and some data
 
 
 ## Your Project

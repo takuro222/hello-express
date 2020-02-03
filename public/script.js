@@ -1,5 +1,6 @@
-// client-side js
-// run by the browser each time your view template is loaded
+// client-side js, loaded by index.html
+// run by the browser each time the page is loaded
+
 console.log("hello world :o");
 
 // define variables that reference elements on our page
